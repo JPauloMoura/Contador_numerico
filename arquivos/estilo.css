@@ -1,0 +1,48 @@
+body{
+    /*background: rgb(46, 136, 209);*/
+    background: rgb(98, 175, 238);
+    font: normal 15pt arial;
+}
+
+header{
+    color: white;
+    text-align: center; /*texto centralizado*/
+
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+}
+
+#resultado{
+    text-align: left;
+    margin-top: -20px;
+}
+
+section{
+    background: white;
+    border-radius: 20px; /*aredonda as bordas*/
+    padding: 15px;/*margem interna*/
+    width: 450px; /*largura*/
+    margin: auto;
+    box-shadow: 5px 5px 5px rgba(63, 61, 61, 0.863);/*sobra*/
+    /*Tlateral Tvertical Tespalhamento cor*/
+
+}
+.form{
+    text-align: left;
+    border-radius: 5px;
+    margin-top: 0px;
+}
+
+#bntlimpar{
+    margin-left: 20%;
+}
+
+
+footer{
+    color: white;
+    text-align: center;/*texto centralizado*/
+    font-style: italic;
+}
